@@ -22,3 +22,5 @@
 <p align="center">
   <img width="800" height="700" src="https://user-images.githubusercontent.com/77875811/230854852-3f9e28ca-153a-4fc6-82e1-447c0b527b58.png">
 </p>
+
+PS: It will take a few minuites for the Vercel Service to start up again
